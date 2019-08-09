@@ -1,0 +1,11 @@
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\SendSample\bin\Debug\netcoreapp2.1\SendSample.deps.json
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\SendSample\bin\Debug\netcoreapp2.1\SendSample.runtimeconfig.json
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\SendSample\bin\Debug\netcoreapp2.1\SendSample.runtimeconfig.dev.json
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\SendSample\bin\Debug\netcoreapp2.1\SendSample.dll
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\SendSample\bin\Debug\netcoreapp2.1\SendSample.pdb
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\SendSample\obj\Debug\netcoreapp2.1\SendSample.csprojAssemblyReference.cache
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\SendSample\obj\Debug\netcoreapp2.1\SendSample.csproj.CoreCompileInputs.cache
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\SendSample\obj\Debug\netcoreapp2.1\SendSample.AssemblyInfoInputs.cache
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\SendSample\obj\Debug\netcoreapp2.1\SendSample.AssemblyInfo.cs
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\SendSample\obj\Debug\netcoreapp2.1\SendSample.dll
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\SendSample\obj\Debug\netcoreapp2.1\SendSample.pdb

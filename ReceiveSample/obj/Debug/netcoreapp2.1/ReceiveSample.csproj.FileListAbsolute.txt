@@ -1,0 +1,8 @@
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\ReceiveSample\bin\Debug\netcoreapp2.1\ReceiveSample.deps.json
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\ReceiveSample\bin\Debug\netcoreapp2.1\ReceiveSample.runtimeconfig.json
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\ReceiveSample\bin\Debug\netcoreapp2.1\ReceiveSample.runtimeconfig.dev.json
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\ReceiveSample\bin\Debug\netcoreapp2.1\ReceiveSample.dll
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\ReceiveSample\obj\Debug\netcoreapp2.1\ReceiveSample.csprojAssemblyReference.cache
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\ReceiveSample\obj\Debug\netcoreapp2.1\ReceiveSample.csproj.CoreCompileInputs.cache
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\ReceiveSample\obj\Debug\netcoreapp2.1\ReceiveSample.AssemblyInfoInputs.cache
+C:\Users\ECM6139G\Desktop\--Felipe--\Source\SendSample\ReceiveSample\obj\Debug\netcoreapp2.1\ReceiveSample.AssemblyInfo.cs
